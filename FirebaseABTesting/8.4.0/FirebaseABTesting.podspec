@@ -17,7 +17,7 @@ Firebase Cloud Messaging and Firebase Remote Config in your app.
 
   s.source           = {
     :git => 'https://github.com/firebase/firebase-ios-sdk.git',
-    :tag => 'CocoaPods-8.4.0'
+    :tag => 'CocoaPods-8.4.0.nightly'
   }
 
   s.social_media_url = 'https://twitter.com/Firebase'
