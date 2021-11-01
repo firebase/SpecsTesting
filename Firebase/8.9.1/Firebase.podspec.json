@@ -65,7 +65,7 @@
       "name": "CoreOnly",
       "dependencies": {
         "FirebaseCore": [
-          "8.9.0"
+          "8.9.1"
         ]
       },
       "source_files": "CoreOnly/Sources/Firebase.h",
