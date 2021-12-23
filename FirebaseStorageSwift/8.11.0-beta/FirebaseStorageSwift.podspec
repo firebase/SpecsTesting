@@ -17,7 +17,7 @@ Firebase Storage provides robust, secure file uploads and downloads from Firebas
     :tag => 'CocoaPods-8.11.0.nightly'
   }
 
-  s.swift_version           = '5.0'
+  s.swift_version           = '5.3'
 
   ios_deployment_target = '10.0'
   osx_deployment_target = '10.12'
