@@ -16,7 +16,7 @@ This pod is for Firebase internal use and not supported for independent use.
     :tag => 'CocoaPods-8.11.0.nightly'
   }
 
-  s.swift_version           = '5.1'
+  s.swift_version           = '5.3'
 
   ios_deployment_target = '10.0'
   osx_deployment_target = '10.12'
